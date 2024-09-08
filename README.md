@@ -5,7 +5,7 @@ Domain: Java Development
 Duration: 5TH  September 2024 - OCTOBER 2024
 
 
-## Overview of the Project##
+## Overview of the Project
 Project: Student Grade Tracker
 Objective: The objective of this project is to develop a Java program that efficiently tracks and manages student grades. The program allows users to input grades for different subjects or assignments, calculate the average grade, and display the overall grade along with additional information such as letter grades and GPA.
 
