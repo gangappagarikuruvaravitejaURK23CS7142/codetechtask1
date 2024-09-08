@@ -1,4 +1,4 @@
-** Name:G.K. Raviteja **
+Name:G.K. Raviteja
 Company: CODTECH IT SOLUTIONS
 ID: CT08DS7842
 Domain: Java Development
