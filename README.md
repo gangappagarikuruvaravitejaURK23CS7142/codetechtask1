@@ -12,15 +12,15 @@ Objective: The objective of this project is to develop a Java program that effic
 ## Key Activities ##
 Grade Input: Implemented methods to allow users to input grades for each student, with validation to ensure the grades are within a valid range.
 
-## Average Grade Calculation##: Developed a method to compute the average grade for each student based on the entered grades.
+## Average Grade Calculation ##: Developed a method to compute the average grade for each student based on the entered grades.
 
-## Letter Grade Calculation##: Created a system to determine the letter grade (A, B, C, D, F) based on the student's average grade.
+## Letter Grade Calculation ##: Created a system to determine the letter grade (A, B, C, D, F) based on the student's average grade.
 
-## GPA Calculation##: Implemented a feature to calculate the student's GPA on a 4.0 scale.
+## GPA Calculation ##: Implemented a feature to calculate the student's GPA on a 4.0 scale.
 
-## Data Management##: Designed the program to handle multiple students, enabling the user to manage a classroom's worth of data efficiently.
+## Data Management ##: Designed the program to handle multiple students, enabling the user to manage a classroom's worth of data efficiently.
 
-## User Interface## : Provided a command-line interface that guides the user through entering data, ensuring an intuitive and error-free experience.
+## User Interface ## : Provided a command-line interface that guides the user through entering data, ensuring an intuitive and error-free experience.
 
 Technologies Used
 Programming Language: Java
