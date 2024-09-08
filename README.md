@@ -26,3 +26,8 @@ Technologies Used
 Programming Language: Java
 Development Tools: IntelliJ IDEA, Eclipse, or any other Java IDE
 Version Control: Git
+## OUTPUT ##
+![Screenshot 2024-09-08 200922](https://github.com/user-attachments/assets/d85b894a-9375-4ea9-ac6d-42a41afcdf8c)
+![Screenshot 2024-09-08 200937](https://github.com/user-attachments/assets/6da1bcac-1ac7-4eeb-8578-8deb8e461ff7)
+
+
